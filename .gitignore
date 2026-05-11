@@ -3,3 +3,5 @@ lib/
 *.class
 *.jar
 *.zip
+config.bat
+node_modules
